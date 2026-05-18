@@ -2,7 +2,18 @@
 
 **Materia:** Minería de Datos · **Grupo 2805**
 **Profesor:** M. en IA Oscar Daniel Acosta González
-**Fecha de la versión:** 15 de mayo de 2026 (rev. 3 — refactor de cierre: renames con prefijo `NN_`, split del ETL, preámbulo unificado del EDA, integridad `pago_key` a 100%, paths via env)
+**Fecha de la versión:** 15 de mayo de 2026
+**Integrantes:** 
+BERNAL MARTÍNEZ LUIS EDUARDO                      319012017
+DÍAZ LÓPEZ ALAN FERNANDO				                  316166506
+HERNÁNDEZ CASTILLO FERNANDA BERENICE              320200320
+MARTÍNEZ HERNÁNDEZ IRVIN			                    320137833
+MUÑOZ MARQUEZ ORTIZ ARTURO RAFAEL		              320609792
+MERA MONTIEL GONZALO SEBASTIÁN		                423004890
+ROSAS GONZÁLEZ MIGUEL ÁNGEL			                  423093814
+VAN STEENBERGHE LUJÁN KRISTOFFER                  319206463
+VILCHIS LOPEZ VICTOR MANUEL                       320090859
+
 
 ---
 
